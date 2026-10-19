@@ -20,7 +20,6 @@
 
 - ☕ Java
 - 🤖 IA aplicada ao desenvolvimento de software
-- 🗄️ Banco de dados e SQL
 - 🏗️ Arquitetura e desenvolvimento de sistemas
 
 ---
