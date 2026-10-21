@@ -1,12 +1,12 @@
 # 👋 Olá, eu sou o Victor Jesus!
 
 🎓 Estudante de Desenvolvimento de Sistemas no IFPR  
-💻 Focado em programação e desenvolvimento de software  
-🌱 Sempre buscando aprender e evoluir na área
+💻 Interesse em programação e desenvolvimento de software  
+🚀 Buscando aprimorar minhas habilidades e desenvolver projetos cada vez melhores
 
 ---
 
-## 🛠️ Linguagens:
+## 🛠️ Linguagens e tecnologias
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -16,14 +16,15 @@
 
 ---
 
-## 📚 Atualmente estudando:
+## 📚 Atualmente estudando
 
-- ☕ Java
-- 🤖 IA aplicada ao desenvolvimento de software
+- ☕ Java e programação orientada a objetos
+- 🤖 Inteligência Artificial aplicada ao desenvolvimento de software
 - 🏗️ Arquitetura e desenvolvimento de sistemas
+- 🎓 Bootcamp de Inteligência Artificial integrada com Java
 
 ---
 
-## 📫 Contato:
+## 📫 Contato
 
-📧 victorjesusdasilveira@gmail.com
+📧 **[victorjesusdasilveira@gmail.com](mailto:victorjesusdasilveira@gmail.com)**
